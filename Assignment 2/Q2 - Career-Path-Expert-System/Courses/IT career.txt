@@ -1,0 +1,7 @@
+Let us see how you can land an IT job.
+Many people get a Bachelor's degree in computer science to start, but it's also possible to land a great software engineering job by being a self-taught programmer or going through a coding bootcamp, which typically takes a few months.
+Some courses that are useful are DSA, OOP, OS and DBMS.
+The key is to be able to show your ability - by creating software and doing real projects that you can show to employers.
+Joining the coding club on campus - CRUx can help in your preparation.
+If you don't want to learn programming but still want to have a part in building technologies and influencing how software progresses, then web design could be a good IT job choice for you.
+Maintaining a CGPA above 7.5 will make you eligible for most jobs.
